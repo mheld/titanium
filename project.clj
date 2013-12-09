@@ -4,10 +4,10 @@
   :license {:name "Eclipse Public License"}
   :dependencies [[org.clojure/clojure                "1.5.1"]
                  [clojurewerkz/support               "0.15.0"]
-                 [com.thinkaurelius.titan/titan-all  "0.3.0"]
+                 [com.thinkaurelius.titan/titan-all  "0.4.1"]
                  [potemkin "0.2.0"]
                  [clojurewerkz/ogre "2.3.0.1"]
-                 [clojurewerkz/archimedes "1.0.0-alpha4"]]
+                 [clojurewerkz/archimedes "1.0.0-alpha6-SNAPSHOT"]]
   :source-paths  ["src/clojure"]
   :java-source-paths ["src/java"]
   :javac-options     ["-target" "1.6" "-source" "1.6"]
